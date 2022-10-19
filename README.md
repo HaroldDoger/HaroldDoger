@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harold Doger</h1>
 <h3 align="center">A passionate fullstack developer from Miami</h3>
 
-- 🌱 I’m currently learning **Javascript, and Node.js**
+- 🌱 I’m currently learning **Javascript, and React**
 
 - 👨‍💻 All of my projects are available at [https://hdportfolio.netlify.app/](https://hdportfolio.netlify.app/)
 
