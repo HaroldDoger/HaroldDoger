@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harold Doger</h1>
 <h3 align="center">A passionate fullstack developer from Miami</h3>
 
-- 🌱 I’m currently learning **Javascript, and React**
-
 - 👨‍💻 All of my projects are available at [https://hdportfolio.netlify.app/](https://hdportfolio.netlify.app/)
 
 - 📫 How to reach me **Harolddoger@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1hwwZGaOKHREtHqr8SCrEJn4g5RCTH8Tt/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1eVv9JGDf_G8r3DPDAquud6hawYCEBheI/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
